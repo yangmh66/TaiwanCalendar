@@ -1623,13 +1623,13 @@
     "date": "20250928",
     "week": "日",
     "isHoliday": true,
-    "description": ""
+    "description": "孔子誕辰紀念日"
   },
   {
     "date": "20250929",
     "week": "一",
-    "isHoliday": false,
-    "description": ""
+    "isHoliday": true,
+    "description": "補假"
   },
   {
     "date": "20250930",
@@ -1778,14 +1778,14 @@
   {
     "date": "20251024",
     "week": "五",
-    "isHoliday": false,
-    "description": ""
+    "isHoliday": true,
+    "description": "補假"
   },
   {
     "date": "20251025",
     "week": "六",
     "isHoliday": true,
-    "description": ""
+    "description": "臺灣光復暨金門古寧頭大捷紀念日"
   },
   {
     "date": "20251026",
@@ -2150,8 +2150,8 @@
   {
     "date": "20251225",
     "week": "四",
-    "isHoliday": false,
-    "description": ""
+    "isHoliday": true,
+    "description": "行憲紀念日"
   },
   {
     "date": "20251226",
